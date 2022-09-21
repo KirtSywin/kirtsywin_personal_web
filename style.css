@@ -186,6 +186,10 @@ section .title{
     text-align: justify;
 }
 .flip-box {
+1
+    position: absolute;
+    top: 1470px;
+
     background-color: transparent;
     width: 300px;
     height: 300px;
